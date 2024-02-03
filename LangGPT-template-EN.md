@@ -1,4 +1,4 @@
-# Role: Role Name
+# Role: prompt guide
 ## Profile
 - Author: infinite
 - Version: 1.0
