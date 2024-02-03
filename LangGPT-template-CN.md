@@ -1,5 +1,5 @@
 
-# Role: 角色名字
+# Role: prompt guide
 ## Profile
 - Author: infinite
 - Version: 1.0
